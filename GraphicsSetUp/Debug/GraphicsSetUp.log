@@ -1,0 +1,15 @@
+﻿  GraphicsSetUp.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\mesh.h(170): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\mesh.h(171): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\mesh.h(181): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\mesh.h(182): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\mesh.h(192): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\mesh.h(193): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\mesh.h(203): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\mesh.h(204): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\samsidd\documents\visual studio 2015\projects\graphicssetup\graphicssetup\graphicssetup.cpp(91): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\samsidd\documents\visual studio 2015\projects\graphicssetup\graphicssetup\graphicssetup.cpp(92): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\samsidd\documents\visual studio 2015\projects\graphicssetup\graphicssetup\graphicssetup.cpp(94): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\samsidd\documents\visual studio 2015\projects\graphicssetup\graphicssetup\graphicssetup.cpp(96): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  GraphicsSetUp.vcxproj -> C:\Users\SamSidd\documents\visual studio 2015\Projects\GraphicsSetUp\Debug\GraphicsSetUp.exe
+  GraphicsSetUp.vcxproj -> C:\Users\SamSidd\documents\visual studio 2015\Projects\GraphicsSetUp\Debug\GraphicsSetUp.pdb (Full PDB)
